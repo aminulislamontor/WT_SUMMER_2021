@@ -1,0 +1,21 @@
+[
+    {
+        "Name": "Ontor",
+        "Email": "Ontor2013@gmail.com",
+        "Password": "ami khubjoss",
+        "Comment": "password aita",
+        "Gender": "male",
+        "Hobby": "Sining  ",
+        "File_Path": "files\/"
+    },
+    
+    {
+        "Name": "Sumona Islam",
+        "Email": "isumona49@gmail.com",
+        "Password": "tumi ekdom joss na",
+        "Comment": "tumi ekdom joss na aitai password",
+        "Gender": "female",
+        "Hobby": " Dancing Reading",
+        "File_Path": "files\/"
+    }
+]
